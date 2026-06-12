@@ -1,13 +1,6 @@
-<<<<<<< HEAD
+
 fastapi
 uvicorn
 pydantic
 requests
 streamlit
-=======
-fastapi
-uvicorn
-pydantic
-requests
-streamlit
->>>>>>> 46811b08f9d345d66f62c10d5dffe7b2d442d6bb
